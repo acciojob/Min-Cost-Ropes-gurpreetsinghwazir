@@ -18,7 +18,8 @@ for(let i = 0; i<jump.length;i++){
   sum = jump[i] + sum
 }
 
-return(sum)
+return(sum-1)
+	
 
 }
 
